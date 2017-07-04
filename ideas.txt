@@ -1,0 +1,6 @@
+-Perhaps use the api?
+-Scrape images, save them via folder and thread
+-It would probably be easier to use the api.
+-But scrapy is kinda neat.
+-does scrapy work with the api?
+
